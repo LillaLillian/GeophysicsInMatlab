@@ -1,4 +1,5 @@
 %Exercise set 2 Geov219
+% Nummerical derivation and interpolation
 
 %% 1. McMahon Chapter 2
 
